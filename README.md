@@ -1,16 +1,13 @@
-## Hi there 👋
+# Janessa Correia 
 
-<!--
-**janessatec-bit/janessatec-bit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+| Analista de Sistemas Líder.
+| Técnica em Desenvolvimento de Sistemas.
+| Ciência da Computação (5/8).
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Área tecnológica
+
+Atuo no desenvolvimento e análise de sistemas, participando do planejamento, implementação e evolução de soluções tecnológicas.
+
+Aprimorando a experiência em arquitetura de sistemas, gestão de projetos de tecnologia e implementação de recursos automáticos.
