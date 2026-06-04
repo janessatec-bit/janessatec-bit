@@ -11,5 +11,4 @@
 ## Área tecnológica
 
 Atuo no desenvolvimento e análise de sistemas, participando do planejamento, implementação e evolução de soluções tecnológicas.
-
 Aprimorando a experiência em arquitetura de sistemas, gestão de projetos de tecnologia e implementação de recursos automáticos.
