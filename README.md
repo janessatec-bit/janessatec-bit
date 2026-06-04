@@ -8,7 +8,9 @@
 
 ---
 
-<img width="3780" height="1890" alt="Janessa Correia" src="https://github.com/user-attachments/assets/b6a284a2-92e3-42e0-a03c-821fa20e2eba" />
+<img width="1080" height="400" alt="Design sem nome" src="https://github.com/user-attachments/assets/29b8e872-5bee-4534-9cf4-8b6bdd365b64" />
+
+---
 
 Atuo no desenvolvimento e análise de sistemas, participando do planejamento, implementação e evolução de soluções tecnológicas.
 Aprimorando a experiência em arquitetura de sistemas, gestão de projetos de tecnologia e implementação de recursos automáticos.
