@@ -4,7 +4,7 @@ Analista de Sistemas Líder • Técnica em Desenvolvimento de Sistemas • Ciê
 
 ---
 
-<img width="1080" height="500" alt="Design sem nome (1)" src="https://github.com/user-attachments/assets/fec60f1d-c819-4ec7-b617-932305f08470" />
+<img width="1080" height="400" alt="Design sem nome" src="https://github.com/user-attachments/assets/7a70ecff-26ad-4272-adc1-0fc1b5e66c7c" />
 
 ---
 
