@@ -1,7 +1,9 @@
 # Janessa Correia 
 
 | Analista de Sistemas Líder.
+
 | Técnica em Desenvolvimento de Sistemas.
+
 | Ciência da Computação (5/8).
 
 ---
