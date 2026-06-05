@@ -23,7 +23,7 @@
   <img src="https://img.shields.io/badge/PHP-D32F2F?style=for-the-badge&logo=php&logoColor=white" />
   <img src="https://img.shields.io/badge/C%23-D32F2F?style=for-the-badge&logo=csharp&logoColor=white" />
   <img src="https://img.shields.io/badge/SQL-D32F2F?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/PowerShell-D32F2F?style=for-the-badge&logo=powershell&logoColor=white" />
+  <img src="https://img.shields.io/badge/Klotin-D32F2F?style=for-the-badge&logo=kotlin&logoColor=white" />
 </p>
 
 ---
