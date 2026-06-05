@@ -1,4 +1,4 @@
-# Janessa Correia 
+<h2 align="center"> Janessa Correia</h2>
 
 <p align="center">Analista de Sistemas Líder • Técnica em Desenvolvimento de Sistemas • Ciência da Computação (5/8)</p>
 ---
