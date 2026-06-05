@@ -14,7 +14,7 @@
   <img src="https://img.shields.io/badge/Tailwind_CSS-FF5722?style=for-the-badge&logo=tailwind-css&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-FF5722?style=for-the-badge&logo=javascript&logoColor=white" />
   <img src="https://img.shields.io/badge/Vite-FF5722?style=for-the-badge&logo=vite&logoColor=white" />
-  <img src="https://img.shields.io/badge/TypeScriptFF5722?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-FF5722?style=for-the-badge&logo=typescript&logoColor=white" />
 </p>
 
 <p align="center">
