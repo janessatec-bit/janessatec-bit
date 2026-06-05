@@ -4,7 +4,7 @@
 
 ---
 
-<img width="1024" height="1536" alt="magnific__background__60634" src="https://github.com/user-attachments/assets/49bff889-c376-47ff-9f5f-194458890911" />
+<img width="1080" height="400" alt="Design sem nome" src="https://github.com/user-attachments/assets/0e4a1377-95a6-4d99-9314-b89c8fcab7e7" />
 
 ---
 
