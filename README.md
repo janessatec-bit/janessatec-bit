@@ -10,7 +10,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/HTML5-FF5722?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-FF5722?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS-FF5722?style=for-the-badge&logo=css&logoColor=white" />
   <img src="https://img.shields.io/badge/Tailwind_CSS-FF5722?style=for-the-badge&logo=tailwind-css&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-FF5722?style=for-the-badge&logo=javascript&logoColor=white" />
   <img src="https://img.shields.io/badge/Vite-FF5722?style=for-the-badge&logo=vite&logoColor=white" />
